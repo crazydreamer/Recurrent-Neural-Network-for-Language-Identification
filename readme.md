@@ -1,7 +1,7 @@
 About
 
-Langauge identification in text, is subset of text categorization problem. This is necessary preprocessor module 
-for many application encompassing from search engines to machine translation, in which language specific modelling 
+Langauge identification in text is a subset of text categorization problems. This is a necessary preprocessor module 
+for applications encompassing from search engines to machine translation, in which language specific modelling 
 is essential.The Language identification corpus consists of texts collected from Multilingual Leipzig corpus, 
 which is further enhanced with text normalisation, and noisy character cleaning. 
 (http://corpora2.informatik.uni-leipzig.de/)
